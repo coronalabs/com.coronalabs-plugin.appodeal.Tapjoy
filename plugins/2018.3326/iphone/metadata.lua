@@ -3,8 +3,8 @@ local metadata =
 	plugin =
 	{
 		format = 'staticLibrary',
-		staticLibs = { 'APDTapjoyAdapter', },
-		frameworks = { 'Tapjoy', },
+		staticLibs = { },
+		frameworks = { },
 		frameworksOptional = {},
 	},
 }
